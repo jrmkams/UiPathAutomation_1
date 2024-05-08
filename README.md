@@ -20,5 +20,8 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <img src="start process.png">
      <li>Name your process</li>
      <img src="name.png">
+     <b>Note:</b><i>You have the option to choose either VBA or C#, but in this tutorial, we will be using VBA as the programming language.</i>
+      <li>In project tab, right click on Dependencies (Windows)</li>
+     <img src="dependencies.png">
    </ol>
 </ul>
