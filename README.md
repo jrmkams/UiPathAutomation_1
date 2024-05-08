@@ -14,5 +14,11 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
    <ol type="1">
      <li>Start Uipath Studio</li>
      <img src="desktop.png">
+     <li>Click Start in the left menu</li>
+     <img src="start.png">
+      <li>Click Process in the right menu to start a new process</li>
+     <img src="start process.png">
+     <li>Name your process</li>
+     <img src="name.png">
    </ol>
 </ul>
