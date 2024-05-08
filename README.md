@@ -21,7 +21,9 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <li>Name your process</li>
      <img src="name.png">
      <b>Note:</b><i>You have the option to choose either VBA or C#, but in this tutorial, we will be using VBA as the programming language.</i>
-      <li>In project tab, right click on Dependencies (Windows)</li>
+      <li>In project tab, right click on Dependencies (Windows) and choose Manage</li>
      <img src="dependencies.png">
+     <li>Click All Packages tab</li>
+     <img src="allpackage.png">
    </ol>
 </ul>
