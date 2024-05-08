@@ -11,8 +11,8 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
 </ul>
  <ul>
     <li>Steps</li>
-   <ol>
-     <li>lunch Uipath Studio</li>
-     <img>
+   <ol type="1">
+     <li>Start Uipath Studio</li>
+     <img src="desktop.png">
    </ol>
 </ul>
