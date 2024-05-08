@@ -29,5 +29,13 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <img src="add process scope.png">
      <li>Drag Excel Process Scope and drop ip in the Main Sequence to add the Process Scope activity</li>
      <img src="drop activity.png">
+     <li>Use a Excel file using use Excel file activity</li>
+      <ul>
+        <li>Search for Use Excel File activity in the Activity tab, drag and drop it into Excel Process Scope activity</li>
+        <li>Name the Excel you will use as "Sales Results/Sales Results-"+DateTime.Now.ToString("yyyy-MM-dd")+".xlsx"</li>
+        <li>Reference this file as SalesResult</li>
+        <li>check template file</li>
+      </ul>
+     <img src="useFile1.png">
    </ol>
 </ul>
