@@ -25,5 +25,9 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <img src="dependencies.png">
      <li>Click All Packages tab</li>
      <img src="allpackage.png">
+     <li>Click Activities tab and search for Excel process scope in the search bar and notice the Main Sequence section in the center of the window</li>
+     <img src="add process scope.png">
+     <li>Drag Excel Process Scope and drop ip in the Main Sequence to add the Process Scope activity</li>
+     <img src="drop activity.png">
    </ol>
 </ul>
