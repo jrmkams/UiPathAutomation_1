@@ -44,11 +44,10 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <li>Create Sales Reports folder  in C:\Users\username\Documents\UiPath\reportsConsolidation </li>
      <img src="create folder.png">
      <img src="folder name.png">
-     <li>Write the sheet header cell</li>
+     <li>Write the sheet header cells</li>
      <ul>
-       
-       <li>O</li>
        <li>Search for Write Cell activity, and drag and drop it into the Use Excel file activity</li>
+       <img src="write ceil_1.png">
      </ul>
    </ol>
 </ul>
