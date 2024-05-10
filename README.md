@@ -45,6 +45,8 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <img src="create folder.png">
      <img src="folder name.png">
      <li>Write the sheet header cells</li>
+     <li>Run the project</li>
+     <img src="">
      <ul>
        <li>Search for Write Cell activity, and drag and drop it into the Use Excel file activity</li>
        <br>
