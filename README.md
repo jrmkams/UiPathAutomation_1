@@ -41,15 +41,16 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <li>Unzip the downloaded zip file in C:\Users\username\Documents\UiPath\reportsConsolidation  </li>
      <i>Note : Replace username by your computer username</i>
      <img src="unzippe.png">
-     <li>Create Sales Reports folder  in C:\Users\username\Documents\UiPath\reportsConsolidation </li>
+     <li>Create Sales Results folder  in C:\Users\username\Documents\UiPath\reportsConsolidation </li>
      <img src="create folder.png">
      <img src="folder name.png">
      <li>Write the sheet header cells</li>
      <ul>
        <li>Search for Write Cell activity, and drag and drop it into the Use Excel file activity</li>
+       <br>
        <img src="write ceil_1.png">
        <li>Indicate the cell where to put the header</li>
-       <img src="write ceil_1.png">
+       <img src="write ceil.png">
      </ul>
    </ol>
 </ul>
