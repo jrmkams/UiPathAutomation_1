@@ -69,5 +69,7 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <li>Create a loop that will browse each file in the "C:\Users\username\Documents\UiPath\reportsConsolidation\Daily Reports" folder</li>
      <i>Note: replace username by your computer username</i>
      <img src="forloop.png">
+     <li>Use each browsed file</li>
+     <img src="forloop 2.png">
    </ol>
 </ul>
