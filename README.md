@@ -38,9 +38,12 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
       </ul>
      <img src="useFile1.png">
      <li>Download the <a href="https://github.com/jrmkams/UiPathAutomation_1/blob/main/Daily%20Reports.rar">Daily Reports.rar</a></a> file</li></li>
-     <li>Unzip the downloaded zip file in C:\Users\username\Documents\UiPath\reportsConsolidation </li>
+     <li>Unzip the downloaded zip file in C:\Users\username\Documents\UiPath\reportsConsolidation  </li>
      <i>Note : Replace username by your computer username</i>
      <img src="unzippe.png">
+     <li>Create Sales Reports folder  in C:\Users\username\Documents\UiPath\reportsConsolidation </li>
+     <img src="create folder.png">
+     <img src="folder name.png">
      <li>Write the sheet header cell</li>
      <ul>
        
