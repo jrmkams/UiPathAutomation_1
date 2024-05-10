@@ -37,7 +37,10 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
         <li>check template file</li>
       </ul>
      <img src="useFile1.png">
-     <li>Download the <a href="">Daily Reports.rar</a></a> file</li></li>
+     <li>Download the <a href="https://github.com/jrmkams/UiPathAutomation_1/blob/main/Daily%20Reports.rar">Daily Reports.rar</a></a> file</li></li>
+     <li>Unzip the downloaded zip file in C:\Users\username\Documents\UiPath\reportsConsolidation </li>
+     <i>Note : Replace username by your computer username</i>
+     <img src="unzippe.png">
      <li>Write the sheet header cell</li>
      <ul>
        
