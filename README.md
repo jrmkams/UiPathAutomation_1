@@ -46,14 +46,25 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <img src="folder name.png">
      <li>Write the sheet header cells</li>
      <li>Run the project</li>
-     <img src="">
+     <img src="run.png">
+     <li>Search for Write Cell activity, and drag and drop it into the Use Excel file activity</li>
      <ul>
-       <li>Search for Write Cell activity, and drag and drop it into the Use Excel file activity</li>
        <br>
        <img src="write ceil_1.png">
        <li>Indicate the cell where to put the header Item</li>
        <img src="write ceil_1.png">
        <img src="write ceil.png">
+       <li>Select the cell A1 and press confirm to indicate the cell of the header "Item"</li>
+       <img src="choose item.png"> 
      </ul>
+     <i>Note : repeat the same action to write headers "Unit Price ($)" in cell B1, "Item sold" in cell C1 and "Total income" in cell D1</i>
+        <img src="write ceil.png">
+       <li>Select the cell A1 and press confirm to indicate the cell of the header "Unit Price ($)", "Item sold" and "Total income" </li>
+       <img src="choose item b.png">
+     <li>Format the headers cells</li>
+     <img src="format cell.png">
+     <img src="indicate format.png">
+     <img src="confirm format.png">
+     <img src="choose font.png">
    </ol>
 </ul>
