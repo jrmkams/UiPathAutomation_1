@@ -48,6 +48,8 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
      <ul>
        <li>Search for Write Cell activity, and drag and drop it into the Use Excel file activity</li>
        <img src="write ceil_1.png">
+       <li>Indicate the cell where to put the header</li>
+       <img src="write ceil_1.png">
      </ul>
    </ol>
 </ul>
