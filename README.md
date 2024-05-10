@@ -37,9 +37,10 @@ This tutorial demonstrates step-by-step how to automate the consolidation of mul
         <li>check template file</li>
       </ul>
      <img src="useFile1.png">
+     <li>Download the <a href="">Daily Reports.rar</a></a> file</li></li>
      <li>Write the sheet header cell</li>
      <ul>
-       <li>Download the Daily Reports.rar file</li>
+       
        <li>O</li>
        <li>Search for Write Cell activity, and drag and drop it into the Use Excel file activity</li>
      </ul>
